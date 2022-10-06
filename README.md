@@ -1,3 +1,9 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.png)](https://www.python.org/)
+[![MIT Licence](https://img.shields.io/badge/License-MIT-blue.png)](https://opensource.org/licenses/mit-license.php)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.png)](https://github.com/dennishnf/unsupervised-anomaly-detection/issues)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-1abc9c.png)](https://github.com/dennishnf/unsupervised-anomaly-detection/)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20and%20use%20the%20Project:%20Unsupervised%20anomaly%20detection&url=https://github.com/dennishnf/unsupervised-anomaly-detection&hashtags=anomaly,images,anomalib,unsupervised)    
+
 Unsupervised anomaly detection using Anomalib
 =============================================
 
@@ -11,6 +17,9 @@ It is recommended to download the dataset from this [link](https://www.mydrive.c
 
 The implementation is fully described in the main notebook: **unsupervised-anomaly-detection.ipynb**.
 
+<p align="center">
+<img src=".images-readme/image-inference.png" alt="figure" width="700"/>
+</p>
 
 ## Author
 
