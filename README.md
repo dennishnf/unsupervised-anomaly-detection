@@ -9,7 +9,7 @@ The data used was The MVTEC Anomaly Detection Dataset ([MVTec AD](https://www.mv
 
 It is recommended to download the dataset from this [link](https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420937637-1629952063/metal_nut.tar.xz), and organize the dataset in the format shown in the main notebook.
 
-The implementation is fully described in the main notebook: **unsupervised-anomaly-detection.ipynb**, but a light-reading version is also included in html: **unsupervised-anomaly-detection.html**.
+The implementation is fully described in the main notebook: **unsupervised-anomaly-detection.ipynb**.
 
 
 ## Author
