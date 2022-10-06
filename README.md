@@ -1,5 +1,5 @@
-Unsupervised anomaly detection using Anomalib library
-=====================================================
+Unsupervised anomaly detection using Anomalib
+=============================================
 
 ## Description
 
