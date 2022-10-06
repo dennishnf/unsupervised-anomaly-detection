@@ -13,7 +13,7 @@ This repository describes the implementation of an unsupervised anomaly detector
 
 The data used was The MVTEC Anomaly Detection Dataset ([MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)), but only the metal nut dataset was used. The training was performed locally on a laptop with an NVIDIA GeForce GTX 1050 Ti GPU and Ubuntu 20.04 LTS operating system.
 
-It is recommended to download the dataset from this [link](https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420937637-1629952063/metal_nut.tar.xz), and organize the dataset in the format shown in the main notebook.
+It is recommended to download the dataset from this [link](https://www.mvtec.com/company/research/datasets/mvtec-ad), and organize the dataset in the format shown in the main notebook.
 
 The implementation is fully described in the main notebook: **unsupervised-anomaly-detection.ipynb**.
 
