@@ -18,7 +18,7 @@ It is recommended to download the dataset from this [link](https://www.mydrive.c
 The implementation is fully described in the main notebook: **unsupervised-anomaly-detection.ipynb**.
 
 <p align="center">
-<img src=".images-readme/image-inference.png" alt="figure" width="700"/>
+<img src=".images-readme/image-inference.png" alt="figure" width="760"/>
 </p>
 
 ## Author
